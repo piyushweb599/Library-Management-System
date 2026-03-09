@@ -1,7 +1,7 @@
 package librarymanagement;
 
 public class Book {
-    //making changes and
+    //making some changes
     private String title;
     private String author;
     private String isbn;
